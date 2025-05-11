@@ -1,40 +1,96 @@
-/* Remove any margin and padding from body for a clean slate */
+/* Reset body and remove margins/padding */
 body {
-  font-family: 'Source Sans 3', sans-serif; /* Set Source Sans 3 as the body font */
-  background-color: #ffffff; /* Flat white background */
-  color: #333; /* Dark text color for contrast */
+  font-family: 'Source Sans 3', sans-serif; /* Set font to Source Sans 3 */
+  background-color: #ffffff; /* All white background */
+  color: #333; /* Dark text for contrast */
   margin: 0;
   padding: 0;
 }
 
-/* Header styling with no shadows */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Source Sans 3', sans-serif; /* Using Source Sans 3 for headers as well */
-  font-weight: 600; /* Make headers a bit bolder */
-  color: #333; /* Same dark color for headers */
-  margin-top: 1.5em; /* Add space at the top of headers */
-  margin-bottom: 0.5em; /* Add space at the bottom of headers */
+/* Main container with border */
+.main-container {
+  max-width: 1200px;
+  margin: 40px auto; /* Increased margin around the page */
+  padding: 20px;
+  border: 2px solid #333; /* Border around the page */
+  border-radius: 10px; /* Optional: rounded corners for the border */
+  background-color: #ffffff; /* Ensure background is white */
 }
 
-/* Remove shadow from all elements */
-* {
-  box-shadow: none !important; /* Ensure no shadows on any elements */
-}
-
-/* Links styling */
-a {
-  color: #007acc; /* Light blue color for links */
-  text-decoration: none; /* Remove underlines */
-}
-
-a:hover {
-  color: #005fa3; /* Darker blue for links on hover */
-}
-
-/* Footer or other sections (if applicable) */
-footer {
-  background-color: #ffffff; /* Ensure footer has white background */
-  padding: 1em;
+/* Header with title */
+header {
   text-align: center;
-  color: #333;
+  margin-bottom: 2em;
+}
+
+h1 {
+  font-family: 'Source Sans 3', sans-serif; /* Keep consistent font */
+  font-weight: 600; /* Slightly bold for the header */
+  color: #333; /* Dark color for text */
+}
+
+/* Menu Bar styles */
+nav {
+  background-color: #333; /* Dark background for the menu bar */
+  padding: 10px 0;
+  text-align: center; /* Center the navigation links */
+}
+
+nav ul {
+  list-style-type: none; /* Remove default list bullets */
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  position: relative; /* Needed for dropdown functionality */
+  margin: 0 15px; /* Space between menu items */
+}
+
+nav ul li a {
+  color: white; /* White text color for links */
+  text-decoration: none; /* Remove underlines */
+  font-weight: 600;
+}
+
+nav ul li a:hover {
+  color: #007acc; /* Light blue color when hovered */
+}
+
+/* Dropdown Menu styles */
+nav ul li ul {
+  display: none; /* Initially hide dropdown */
+  position: absolute;
+  top: 100%; /* Position dropdown below the parent */
+  left: 0;
+  background-color: #333;
+  min-width: 160px; /* Set minimum width for the dropdown */
+}
+
+nav ul li:hover > ul {
+  display: block; /* Show dropdown on hover */
+}
+
+nav ul li ul li {
+  display: block; /* Dropdown items as block-level elements */
+  margin: 0;
+}
+
+nav ul li ul li a {
+  padding: 10px 15px; /* Padding for the dropdown items */
+  display: block;
+}
+
+nav ul li ul li a:hover {
+  color: #007acc; /* Light blue on hover */
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 1em;
+  margin-top: 2em;
 }
