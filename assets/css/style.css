@@ -1,94 +1,97 @@
-/* Reset body and remove margins/padding */
+/* Reset */
 body {
-  font-family: 'Source Sans 3', sans-serif; /* Set font to Source Sans 3 */
-  background-color: #ffffff; /* All white background */
-  color: #333; /* Dark text for contrast */
+  font-family: 'Source Sans 3', sans-serif;
+  background-color: #ffffff; /* White background */
+  color: #666666; /* Medium grey text */
   margin: 0;
   padding: 0;
 }
 
-/* Main container with border */
+/* Container */
 .main-container {
   max-width: 1200px;
-  margin: 40px auto; /* Increased margin around the page */
+  margin: 40px auto;
   padding: 20px;
-  background-color: #ffffff; /* Ensure background is white */
+  background-color: #ffffff; /* Ensure white background */
 }
 
-/* Header with title */
+/* Header */
 header {
   text-align: center;
   margin-bottom: 2em;
 }
 
 h1 {
-  font-family: 'Source Sans 3', sans-serif; /* Keep consistent font */
-  font-weight: 600; /* Slightly bold for the header */
-  color: #333; /* Dark color for text */
+  font-weight: 600;
+  color: #666666; /* Medium grey */
 }
 
-/* Menu Bar styles */
+/* Navigation */
 nav {
-  background-color: #ffffff; /* White background for the menu bar */
+  background-color: #ffffff; /* White background */
   padding: 10px 0;
-  text-align: center; /* Center the navigation links */
+  text-align: center;
+  border: none;
 }
 
 nav ul {
-  list-style-type: none; /* Remove default list bullets */
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 nav ul li {
   display: inline-block;
-  position: relative; /* Needed for dropdown functionality */
-  margin: 0 15px; /* Space between menu items */
+  position: relative;
+  margin: 0 15px;
 }
 
 nav ul li a {
-  color: grey; /* Grey  text color for links */
-  text-decoration: none; /* Remove underlines */
+  color: #666666; /* Medium grey */
+  text-decoration: none;
   font-weight: 600;
 }
 
 nav ul li a:hover {
-  color: #007acc; /* Light blue color when hovered */
+  color: #000000; /* Darker grey/black on hover */
 }
 
-/* Dropdown Menu styles */
+/* Dropdown */
 nav ul li.dropdown:hover > .dropdown-content {
-  display: block; /* Show dropdown on hover */
+  display: block;
 }
 
 nav ul li .dropdown-content {
-  display: none; /* Initially hide the dropdown */
+  display: none;
   position: absolute;
-  top: 100%; /* Position the dropdown below the parent */
+  top: 100%;
   left: 0;
-  background-color: #333;
-  min-width: 160px; /* Set a minimum width for the dropdown */
+  background-color: #ffffff; /* White dropdown */
+  min-width: 160px;
+  box-shadow: none; /* No shadow */
 }
 
 nav ul li .dropdown-content li {
-  display: block; /* Make dropdown items block-level */
+  display: block;
   margin: 0;
 }
 
 nav ul li .dropdown-content li a {
-  padding: 10px 15px; /* Padding for the dropdown items */
+  padding: 10px 15px;
   display: block;
+  color: #666666; /* Medium grey text */
 }
 
 nav ul li .dropdown-content li a:hover {
-  color: #007acc; /* Light blue on hover */
+  color: #000000; /* Darker grey on hover */
 }
 
-/* Footer styling */
+/* Footer */
 footer {
   text-align: center;
-  background-color: #ffffff;
-  color: white;
+  background-color: #ffffff; /* White */
+  color: #666666; /* Medium grey */
   padding: 1em;
   margin-top: 2em;
+  border-top: none;
 }
