@@ -1,42 +1,40 @@
-/* Typography */
+/* Remove any margin and padding from body for a clean slate */
 body {
-  font-family: 'Source Sans 3', sans-serif;
-  background-color: #ffffff; /* pure white, flat background */
-  color: #333;
+  font-family: 'Source Sans 3', sans-serif; /* Set Source Sans 3 as the body font */
+  background-color: #ffffff; /* Flat white background */
+  color: #333; /* Dark text color for contrast */
   margin: 0;
   padding: 0;
 }
 
+/* Header styling with no shadows */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif;
-  font-weight: 600;
-  color: #333;
-  margin-top: 1.5em;
-  color: #222;
+  font-family: 'Source Sans 3', sans-serif; /* Using Source Sans 3 for headers as well */
+  font-weight: 600; /* Make headers a bit bolder */
+  color: #333; /* Same dark color for headers */
+  margin-top: 1.5em; /* Add space at the top of headers */
+  margin-bottom: 0.5em; /* Add space at the bottom of headers */
 }
 
-/* Layout cleanup */
-.container, .content, .wrapper {
-  background-color: #ffffff;
-  box-shadow: none;
-  border: none;
+/* Remove shadow from all elements */
+* {
+  box-shadow: none !important; /* Ensure no shadows on any elements */
 }
 
+/* Links styling */
 a {
-  color: #007acc;
-  text-decoration: none;
+  color: #007acc; /* Light blue color for links */
+  text-decoration: none; /* Remove underlines */
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #005fa3; /* Darker blue for links on hover */
 }
 
-/* Remove shadow and make the title background flat white */
-h1, .page-title {
-  background-color: #ffffff; /* Flat white background */
-  box-shadow: none; /* Remove any shadow */
-  padding: 0; /* Adjust padding if necessary */
-  margin: 0; /* Adjust margin if necessary */
-  color: #333; /* Text color */
+/* Footer or other sections (if applicable) */
+footer {
+  background-color: #ffffff; /* Ensure footer has white background */
+  padding: 1em;
+  text-align: center;
+  color: #333;
 }
-
