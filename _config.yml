@@ -1,7 +1,7 @@
 title: "Stewardship Mapping and Assessment Twin Cities"
 description: "xxx"
 url: "https://sallydonovan.github.io"  # Replace with your GitHub Pages URL
-baseurl: ""  # Leave this empty if hosted at root, or specify subdirectory path
+baseurl: "/mspstewmap"  # Leave this empty if hosted at root, or specify subdirectory path
 theme: jekyll-theme-minimal  # Optional if you want to use a Jekyll theme
 
 permalink: /:title/
