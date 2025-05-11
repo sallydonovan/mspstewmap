@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 2em;
+      }
+      nav {
+        margin-bottom: 2em;
+      }
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      .dropbtn {
+        background-color: #fff;
+        color: #000;
+        padding: 8px 12px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        cursor: pointer;
+      }
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        z-index: 1;
+      }
+      .dropdown-content a {
+        color: black;
+        padding: 10px 14px;
+        text-decoration: none;
+        display: block;
+      }
+      .dropdown-content a:hover {
+        background-color: #eee;
+      }
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>{{ site.title }}</h1>
+    <nav>
+      <div class="dropdown">
+        <button class="dropbtn">Menu</button>
+        <div class="dropdown-content">
+          <a href="/">Home</a>
+          <a href="/about">About</a>
+          <a href="/data">Data</a>
+          <a href="/contact">Contact</a>
+        </div>
+      </div>
+    </nav>
+
+    {{ content }}
+  </body>
+</html>
