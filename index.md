@@ -1,10 +1,23 @@
 ---
+title: "Stewardship Mapping and Assessment Twin Cities"
 layout: default
-title: Stewardship Mapping and Assessment Twin Cities
 ---
 
-# Stewardship Mapping and Assessment Twin Cities
+<head>
+  <style>
+    /* Set Source Sans 3 as the main body font */
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+    }
 
-Welcome to the official website for the Twin Cities Stewardship Mapping and Assessment Project.
+    /* Set Merriweather for headers */
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Merriweather', serif;
+    }
+  </style>
+</head>
 
-Our goal is to provide an accessible platform for exploring local tree stewardship efforts, data, and resources.
+# Welcome to Stewardship Mapping and Assessment Twin Cities
+
+This is your homepage. Customize your content here.
+
