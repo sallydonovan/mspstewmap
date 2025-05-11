@@ -1,4 +1,8 @@
-title: "STEWMAP Twin Cities"
-description: >-
- Twin Cities Stewardship Mapping and Assessment Project.
-theme: jekyll-theme-minimal
+title: "Stewardship Mapping and Assessment Twin Cities"
+description: "Stewardship Mapping and Assessment Project, Twin Cities."
+url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # Leave this empty unless you're using a subdirectory
+
+# Optional: Set the theme
+theme: jekyll-theme-minimal  # Or you can set your own theme here if you made custom styles
+
