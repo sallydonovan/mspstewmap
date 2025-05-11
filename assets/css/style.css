@@ -1,0 +1,31 @@
+/* Typography */
+body {
+  font-family: 'Merriweather', serif;
+  background-color: #ffffff; /* pure white, flat background */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  margin-top: 1.5em;
+  color: #222;
+}
+
+/* Layout cleanup */
+.container, .content, .wrapper {
+  background-color: #ffffff;
+  box-shadow: none;
+  border: none;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
