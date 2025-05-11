@@ -9,25 +9,40 @@
   <!-- Google Fonts for Source Sans 3 -->
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
   
-  <!-- Include any other meta tags, links, or external CSS files as needed -->
-
   <!-- Link to External CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
 
-  <!-- Page content goes here -->
-  <header>
-    <h1>{{ page.title | default: site.title }}</h1>
-  </header>
+  <!-- Navigation Menu Bar -->
+  <nav>
+    <ul>
+      <li><a href="{{ site.baseurl }}/">Home</a></li>
+      <li><a href="{{ site.baseurl }}/map">Map</a></li>
+      <li><a href="{{ site.baseurl }}/network">Network</a></li>
+      <li>
+        <a href="#">More</a> <!-- Dropdown Parent Item -->
+        <ul>
+          <li><a href="{{ site.baseurl }}/about">About</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
 
-  <main>
-    {{ content }}
-  </main>
+  <!-- Main Content Container with Border -->
+  <div class="main-container">
+    <header>
+      <h1>{{ page.title | default: site.title }}</h1>
+    </header>
 
-  <!-- Optionally add a footer -->
+    <main>
+      {{ content }}
+    </main>
+  </div> <!-- End of main-container -->
+
+  <!-- Footer -->
   <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} Your Website Name</p>
+    <p>&copy; {{ site.time | date: "%Y" }} Stewardship Mapping and Assessment Twin Cities</p>
   </footer>
 
 </body>
