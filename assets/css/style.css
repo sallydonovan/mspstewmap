@@ -1,6 +1,6 @@
 /* Typography */
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Source Sans 3', sans-serif;
   background-color: #ffffff; /* pure white, flat background */
   color: #333;
   margin: 0;
@@ -8,8 +8,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Merriweather', serif;
   font-weight: 600;
+  color: #333;
   margin-top: 1.5em;
   color: #222;
 }
@@ -29,3 +30,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Remove shadow and make the title background flat white */
+h1, .page-title {
+  background-color: #ffffff; /* Flat white background */
+  box-shadow: none; /* Remove any shadow */
+  padding: 0; /* Adjust padding if necessary */
+  margin: 0; /* Adjust margin if necessary */
+  color: #333; /* Text color */
+}
+
