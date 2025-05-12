@@ -7,6 +7,10 @@ body {
   padding: 0;
 }
 
+p {
+  margin-bottom: 1.5em;
+}
+
 /* Main container — no border, no background */
 .main-container {
   max-width: 1200px;
