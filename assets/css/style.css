@@ -53,7 +53,7 @@ nav ul li a {
   color: #666666;
   text-decoration: none;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 20px !important;
 }
 
 nav ul li a:hover {
