@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Map
+title: ""
 ---
-
 <iframe 
   src="https://umn.maps.arcgis.com/apps/instant/lookup/index.html?appid=ab4d7e4178df41de959a7ac5cc147414" 
   width="100%" 
