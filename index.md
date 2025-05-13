@@ -14,7 +14,7 @@ Urban trees create shade, habitat, and recreational spaces that support the well
 The Twin Cities Tree Stewardship Mapping Project analyzes how groups collaborate and the specific stewardship activities they perform —such as tree planting, maintenance, or advocacy— to identify opportunities for groups to coordinate more effectively, share resources, and reduce redundancy. This knowledge can highlight areas that may be underserved or ecologically vulnerable, such as neighborhoods with limited stewardship activity or declining urban forest conditions. This helps inform equitable decisions about where and how to invest in the long-term care of urban forests.
   </p>
       <p>
-        [View the map](https://sallydonovan.github.io/mspstewmap/map) and [network](https://sallydonovan.github.io/mspstewmap/network) to learn about who cares for trees near you and how to get involved.
+        [View the map]({{ site.baseurl }}/map) and [network]({{ site.baseurl }}/network) to learn about who cares for trees near you and how to get involved.
       </p>
     </div>
   </div>
