@@ -1,9 +1,12 @@
 ---
 title: ""
 layout: default
+baseurl: "/mspstewmap"
+url: "https://sallydonovan.github.io"
 ---
-<div style="text-align: center; margin-top: -50; display: inline-block;">
-  <img src="assets/stewmap_logo.png" alt="STEWMAP logo" style="width: 500px; text-align: center;" />
+
+<div style="margin-top: -50px; text-align: center;">
+  <img src="assets/stewmap_logo.png" alt="STEWMAP logo" style="width: 500px;" />
 </div>
 
 <div style="width: 500px; margin: 0 auto; text-align: left; padding-right: 10px;">
@@ -14,6 +17,6 @@ layout: default
     The Twin Cities Tree Stewardship Mapping Project analyzes how groups collaborate and the specific stewardship activities they perform —such as tree planting, maintenance, or advocacy— to identify opportunities for groups to coordinate more effectively, share resources, and reduce redundancy. This knowledge can highlight areas that may be underserved or ecologically vulnerable, such as neighborhoods with limited stewardship activity or declining urban forest conditions. This helps inform equitable decisions about where and how to invest in the long-term care of urban forests.
   </p>
   <p>
-    [View the map]({{ site.baseurl }}/map.html) and the [network]({{ site.baseurl }}/network.html)
+    <a href="{{ site.baseurl }}/map.html">View the map</a> and the <a href="{{ site.baseurl }}/network.html">network</a> to learn about who cares for trees near you and how to get involved.
   </p>
 </div>
