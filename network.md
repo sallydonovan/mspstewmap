@@ -1,4 +1,4 @@
 ---
-title: "Network"
+title: "network"
 layout: default
 ---
