@@ -1,5 +1,5 @@
 ---
-title: "Map"
+title: "map"
 layout: default
 ---
 <iframe 
