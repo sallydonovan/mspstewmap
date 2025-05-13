@@ -1,6 +1,4 @@
 ---
-layout: default
 title: "Network"
+layout: default
 ---
-
-# Network data
