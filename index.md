@@ -5,7 +5,7 @@ baseurl: "/mspstewmap"
 url: "https://sallydonovan.github.io"
 ---
 
-<div style="margin-top: -50px; text-align: center;">
+<div style="text-align: center; margin-top: 20px;">
   <img src="assets/stewmap_logo.png" alt="STEWMAP logo" style="width: 500px;" />
 </div>
 
