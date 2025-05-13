@@ -19,6 +19,11 @@ p {
   background-color: #ffffff; /* Ensure background is white */
 }
 
+.main-container img {
+  display: block;
+  margin: 0 auto 10px auto;  /* Centered and reduced bottom spacing */
+}
+
 /* Header — remove background and border */
 header {
   text-align: center;
