@@ -3,7 +3,7 @@ title: ""
 layout: default
 ---
 <div style="text-align: center; margin-top: -50; display: inline-block;">
-  <img src="assets/stewmap_logo.png" alt="STEWMAP logo" style="width: 500px;" />
+  <img src="assets/stewmap_logo.png" alt="STEWMAP logo" style="width: 500px; text-align: center;" />
 </div>
 
 <div style="width: 500px; margin: 0 auto; text-align: left; padding-right: 10px;">
