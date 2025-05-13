@@ -14,6 +14,6 @@ layout: default
     The Twin Cities Tree Stewardship Mapping Project analyzes how groups collaborate and the specific stewardship activities they perform —such as tree planting, maintenance, or advocacy— to identify opportunities for groups to coordinate more effectively, share resources, and reduce redundancy. This knowledge can highlight areas that may be underserved or ecologically vulnerable, such as neighborhoods with limited stewardship activity or declining urban forest conditions. This helps inform equitable decisions about where and how to invest in the long-term care of urban forests.
   </p>
   <p>
-    [View the map](/mspstewmap/map.html) and the [network](/mspstewmap/network.html)
+    [View the map]({{ site.baseurl }}/map.html) and the [network]({{ site.baseurl }}/network.html)
   </p>
 </div>
