@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Network data
+title: "Network"
 ---
 
 # Network data
