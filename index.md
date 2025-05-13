@@ -17,6 +17,6 @@ url: "https://sallydonovan.github.io"
     The Twin Cities Tree Stewardship Mapping Project analyzes how groups collaborate and the specific stewardship activities they perform —such as tree planting, maintenance, or advocacy— to identify opportunities for groups to coordinate more effectively and share resources. This knowledge can highlight areas that may be underserved or ecologically vulnerable, such as neighborhoods with limited stewardship activity or declining urban forest conditions. We aim to inform equitable decisions about where and how to invest in the long-term care of urban forests.
   </p>
   <p>
-    <a href="{{ site.baseurl }}/map">View the map</a> and the <a href="{{ site.baseurl }}/network">network</a> to learn about who cares for trees near you and how to get involved. To add your organization to the map and learn more abour our project, email Sally Donovan at msp-stewmap@umn.edu.
+    <a href="{{ site.baseurl }}/map">View the map</a> and the <a href="{{ site.baseurl }}/network">network</a> to learn about who cares for trees near you and how to get involved. To add your organization to the map and learn more about our project, email Sally Donovan at msp-stewmap@umn.edu.
   </p>
 </div>
