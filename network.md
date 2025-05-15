@@ -5,7 +5,7 @@ layout: default
 
 <div style="width: 500px; margin: 0 auto; text-align: left; padding-right: 10px;">
   <p>
-    Click on an organization type in the legend below to view the network in its absence.
+    Click on a group type in the legend below to view the network in its absence.
   </p>
 </div>
 
