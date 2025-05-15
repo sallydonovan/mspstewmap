@@ -3,9 +3,9 @@ title: "network"
 layout: default
 ---
 
-<div style="width: 800px; margin: 0 auto; text-align: left; padding-right: 5px;">
+<div style="width: 400px; margin: 0 auto; text-align: left; padding-right: 5px;">
   <p>
-    Click on a group type in the legend below to view the network in its absence.
+    Click on an organization type in the legend below to view how the network changes in its absence.
   </p>
 </div>
 
