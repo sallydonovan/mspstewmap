@@ -3,7 +3,7 @@ title: "network"
 layout: default
 ---
 
-<div style="width: 500px; margin: 0 auto; text-align: left; padding-right: 10px;">
+<div style="width: 600px; margin: 0 auto; text-align: left; padding-right: 10px;">
   <p>
     Click on a group type in the legend below to view the network in its absence.
   </p>
