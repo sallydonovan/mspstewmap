@@ -3,7 +3,9 @@ title: "network"
 layout: default
 ---
 
-<div style="width: 400px; margin: 0 auto; text-align: left; padding-right: 5px;">
+<div style="width: 500px; margin: 0 auto; text-align: left; padding-right: 10px;">
+  <p>
+    A social network shows how people and organizations are connected—who shares information, who works together, and who influences decisions. Understanding these relational patterns helps detect influential stakeholders, communication bottlenecks, and potential for improved resource-sharing.
   <p>
     Click on an organization type in the legend below to view how the network changes in its absence.
   </p>
