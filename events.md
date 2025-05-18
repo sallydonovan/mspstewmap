@@ -44,8 +44,8 @@ layout: default
 
 <div class="event-header">Save the Date! Summer Tree Stewardship Events</div>
 <div class="event-subtext">
-  Join us for a series of gatherings to connect with others caring for the urban forest and learn about the twin Cities Tree Stewardship Project. We will share back the results from our 2023 survey and gather feedback to inspire future research.    
-  These events are informal and open to everyone — come by for conversation and learning with other tree stewards. We will have drinks and snacks to share.
+  Join us for a series of gatherings to connect with others caring for the urban forest and learn about the Twin Cities Tree Stewardship Project. We will share back the results from our 2023 Survey and gather feedback to inspire future research.    
+  These events are informal and open to everyone — stop by for conversation and learning with other tree stewards. We will have drinks and snacks to share.
 </div>
 
 <div class="event-box">
@@ -73,5 +73,5 @@ layout: default
 </div>
 
 <div class="event-subtext">
-  Feel free to email us  with questions or comments at msp-stewmap@umn.edu. We'd love to hear from you!
+  Feel free to email us  with questions or comments at msp-stewmap@umn.edu.
 </div>
