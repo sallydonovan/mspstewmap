@@ -5,5 +5,5 @@ layout: default
 
 ## Upcoming Events
 
-Stay tuned for upcoming community events, meetings, and workshops.
+Stay tuned for upcoming stewardship events.
 
