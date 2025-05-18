@@ -44,7 +44,7 @@ layout: default
 
 <div class="event-header">Tree Stewardship Events</div>
 <div class="event-subtext">
-  Join us for a series of gatherings to connect with others caring for the urban forest and learn about the Twin Cities Tree Stewardship Project. We will share back the results from our 2023 Survey and gather feedback to inspire future research. These events are informal and open to everyone. We will have drinks and snacks to share.
+  Join us for a series of events this summer to connect with others who care for the urban forest. These informal events are a space for community members, students, researchers, and urban forestry professionals to learn more about the 2023 Tree Stewardship Survey, share ideas, and explore ways to grow a more resilient urban forests. We will have drinks and snacks to share. Everyone is welcome-- please stop by! 
 </div>
 
 <p class="event-highlight">Save the date! More details and locations coming soon.</p>
