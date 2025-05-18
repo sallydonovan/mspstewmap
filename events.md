@@ -49,7 +49,7 @@ layout: default
 </div>
 
 <div class="event-box">
-  <div class="event-date">July 2, 2025</div>
+  <div class="event-date">August 16, 2025</div>
   <div class="event-title">Weekend Gathering</div>
   <div>
     Join us for a Saturday evening meet-up for those who can’t make weekday events.<br>
