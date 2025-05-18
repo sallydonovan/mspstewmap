@@ -18,6 +18,12 @@ layout: default
     margin-bottom: 0.3em;
   }
 
+  .event-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+  }
+
   .event-highlight {
     color: #9dc363;
     font-weight: bold;
@@ -25,25 +31,28 @@ layout: default
 </style>
 
 <div class="event-box">
-  <div class="event-date">June 5, 2025</div>
+  <div class="event-date">June 13, 2025</div>
+  <div class="event-title">Coffee and trees</div>
   <div>
-    Community garden planting day at <span class="event-highlight">Powderhorn Park</span><br>
-    <span class="event-highlight">10 AM – 1 PM</span>
+    Drop in before work for coffee and conversation with others caring for our city’s trees.<br>
+    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7 AM – 9 AM</span>
   </div>
 </div>
 
 <div class="event-box">
-  <div class="event-date">June 18, 2025</div>
+  <div class="event-date">July 22, 2025</div>
+  <div class="event-title"> Stewardship Happy Hour</div>
   <div>
-    Neighborhood composting workshop at <span class="event-highlight">Eastside Coop</span><br>
-    <span class="event-highlight">6 PM – 7:30 PM</span>
+    Stop by after work for drinks with fellow tree stewards.<br>
+    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
 
 <div class="event-box">
   <div class="event-date">July 2, 2025</div>
+  <div class="event-title">Weekend Gathering</div>
   <div>
-    Urban ecology walk with <span class="event-highlight">local stewards</span> at <span class="event-highlight">Minnehaha Falls</span><br>
-    <span class="event-highlight">9 AM – 11 AM</span>
+    Join us for a Saturday evening meet-up for those who can’t make weekday events.<br>
+    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
