@@ -32,7 +32,6 @@ layout: default
 
 <div class="event-box">
   <div class="event-date">June 13, 2025</div>
-  <div class="event-title">Coffee and trees</div>
   <div>
     Drop in before work for coffee and conversation with others caring for our city’s trees.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7 AM – 9 AM</span>
@@ -41,18 +40,16 @@ layout: default
 
 <div class="event-box">
   <div class="event-date">July 22, 2025</div>
-  <div class="event-title"> Stewardship Happy Hour</div>
   <div>
-    Stop by after work for drinks with fellow tree stewards.<br>
+    Stop by after work for a drink and to connect with local tree stewards.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
 
 <div class="event-box">
   <div class="event-date">August 16, 2025</div>
-  <div class="event-title">Weekend Gathering</div>
   <div>
-    Join us for a Saturday evening meet-up for those who can’t make weekday events.<br>
+    Cant make a weekday date? Join us on Saturday evening to continue the discussion and sharing from the summer's events.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
