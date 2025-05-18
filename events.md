@@ -1,5 +1,5 @@
-layout: page
-title: Events
+title: "events"
+layout: default
 ---
 
 <!-- Add your events content below -->
