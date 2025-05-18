@@ -71,3 +71,7 @@ layout: default
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
+
+<div class="event-subtext">
+  Feel free to email us  with questions or comments at msp-stewmap@umn.edu. We'd love to hear from you!
+</div>
