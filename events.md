@@ -1,6 +1,5 @@
 layout: page
 title: Events
-permalink: /events/
 ---
 
 <!-- Add your events content below -->
