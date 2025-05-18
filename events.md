@@ -52,7 +52,6 @@ layout: default
 <div class="event-box">
   <div class="event-date">June 13, 2025</div>
   <div>
-    Drop in for coffee and conversation with others caring for our city’s trees.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7 AM – 9 AM</span>
   </div>
 </div>
@@ -60,7 +59,6 @@ layout: default
 <div class="event-box">
   <div class="event-date">July 22, 2025</div>
   <div>
-    Stop by after work for a drink and to connect with local tree stewards.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
@@ -68,7 +66,6 @@ layout: default
 <div class="event-box">
   <div class="event-date">August 16, 2025</div>
   <div>
-    Cant make a weekday date? Join us on Saturday evening to continue the discussion and sharing from the summer's events.<br>
     <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
   </div>
 </div>
