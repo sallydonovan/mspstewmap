@@ -44,7 +44,7 @@ layout: default
 
 <div class="event-header">Tree Stewardship Events</div>
 <div class="event-subtext">
-  Join us for a series of events to connect with others who care for the urban forest. These informal events are a space for community members, students, researchers, and urban forestry professionals to learn more about the 2023 Tree Stewardship Survey, share ideas, and explore ways to grow a more resilient urban forests. We will have drinks and snacks to share. Everyone is welcome-- please stop by! 
+  Join us for a series of events to connect with others who care for the urban forest. These informal events are a space for community members, students, researchers, and urban forestry professionals to learn more about the 2023 Tree Stewardship Survey, share recent and upcoming projects, and explore ways to grow a more resilient urban forests. We will have drinks and snacks to share. Everyone is welcome-- please stop by! 
 </div>
 
 <p class="event-highlight">Save the date! More details and locations coming soon.</p>
@@ -52,7 +52,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">June 13, 2025</div>
   <div>
-    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7 AM – 9 AM</span>
+    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7:30 AM – 10 AM</span>
   </div>
 </div>
 
