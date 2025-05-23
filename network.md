@@ -8,7 +8,7 @@ layout: default
     A social network shows how people and organizations are connected—who shares information, who works together, and who influences decisions. Understanding these relational patterns helps detect influential stakeholders, communication bottlenecks, and potential for improved resource-sharing.
   </p>
   <p>
-    Click on an organization type in the legend below to view how the network of tree stewards changes in its absence.
+    Drag and move the dots (called nodes) to explore how tree stewards are connected. Click on an organization type in the legend to see how the network changes without it. The size of each dot shows the number of direct connections for each group.
   </p>
 </div>
 
